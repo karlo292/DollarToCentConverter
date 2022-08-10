@@ -1,0 +1,21 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "karlo292",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.9",
+    "electron-packager": "^13.1.1"
+  },
+  "dependencies": {
+    "dollars-to-cents": "^1.0.3",
+    "minecraft-server-status-simple": "^1.1.2",
+    "minestat": "^1.0.3"
+  }
+}
